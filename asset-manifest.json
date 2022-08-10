@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/login-form-redux/static/css/main.4b4548b6.css",
+    "main.js": "/login-form-redux/static/js/main.610c2581.js",
+    "index.html": "/login-form-redux/index.html",
+    "main.4b4548b6.css.map": "/login-form-redux/static/css/main.4b4548b6.css.map",
+    "main.610c2581.js.map": "/login-form-redux/static/js/main.610c2581.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b4548b6.css",
+    "static/js/main.610c2581.js"
+  ]
+}
